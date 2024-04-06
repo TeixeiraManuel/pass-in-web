@@ -1,13 +1,22 @@
-## Pass In Web
+## Sobre o Evento
 
+O NLW Unite é um evento de três dias focado em desenvolvimento de software, promovido pela Rocketseat. Durante o evento, exploramos intensivamente as tecnologias mais modernas e relevantes para a construção de aplicações web robustas e eficientes.
 
+## Conteúdo
 
-## Como Executar o Projeto
+Durante o evento, abordamos os seguintes tópicos:
 
-1. Certifique-se de ter o ambiente de desenvolvimento React  configurado em seu sistema.
+- **React JS + TypeScript:** Aprendemos a desenvolver aplicações web utilizando React JS com TypeScript, combinando a eficiência do React com a segurança e a robustez do TypeScript.
 
-2. Clone este repositório em seu ambiente de desenvolvimento.
+- **Tailwind CSS:** Exploramos o Tailwind CSS, uma estrutura de estilo utilitário que nos permite criar interfaces de usuário estilizadas de forma rápida e consistente.
 
-3. Navegue até o diretório do projeto e execute `npm install` ou `yarn install` para instalar todas as dependências.
+- **Consumo de API Node.js:** Aprofundamos nossos conhecimentos em Node.js, aprendendo a criar e consumir APIs para fornecer dados dinâmicos às nossas aplicações web.
 
-4. Após a instalação das dependências, você pode iniciar o aplicativo executando `npm run dev`.
+- **Uso de URL State:** Descobrimos como utilizar o estado da URL para gerenciar o estado da aplicação de forma eficiente e escalável.
+
+## Instruções de Uso
+
+Para utilizar este repositório, basta cloná-lo para o seu ambiente de desenvolvimento: git clone https://github.com/TeixeiraManuel/nlw_unite.git.
+
+- npm install 
+- npm run dev 
